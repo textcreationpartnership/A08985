@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true tale of Robbin, or, [A] briefe touch of the life and death o[f that r]enowned outlaw, Robert Earle of Huntin[gton vu]lgarly called Robbin Hood who lived and died in [1]198. being the 9. yeare of the reigne of King Ri[chard] the First, commonly called Richard Cuer de Lyou [sic] / [ca]refully collected out of the truest writers of our English c[hronicl]les, and published for the satisfaction of those who desire to [have?] truth purged from falsehood, by Martin Parker.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08985</idno><idno type="EEBO-CITATION">22123602</idno>
+  <idno type="VID">25113</idno>
+  <idno type="EEBO-PROQUEST">2240939905</idno>
+  <idno type="STC">STC 19275</idno>
+  <idno type="STC">ESTC S1330</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1732:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true tale of Robbin, or, [A] briefe touch of the life and death o[f that r]enowned outlaw, Robert Earle of Huntin[gton vu]lgarly called Robbin Hood who lived and died in [1]198. being the 9. yeare of the reigne of King Ri[chard] the First, commonly called Richard Cuer de Lyou [sic] / [ca]refully collected out of the truest writers of our English c[hronicl]les, and published for the satisfaction of those who desire to [have?] truth purged from falsehood, by Martin Parker.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>For T. Cotes, and are to be sold b [sic] F. Groves ...,</publisher>
+                  <pubPlace>[Pri]nted at London :</pubPlace>
+                  <date>[1632?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Illustrated cover and t.p.</note>
+                  <note>Imprint cropped; date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁴ B⁴ (last sheet blank).</note>
+                  <note>Imperfect: Cropped and tightly bound, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25113:1"/>
+            
+            <p>A True Tale of <hi>Robbin</hi> OR A briefe touch of the life and death o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>enowned Outlaw, <hi>Robert</hi> Earle of <hi>Huntin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lgarly called <hi>Robbin Hood,</hi> who lived and died in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>198. being the 9. yeare of the reigne of King <hi>Ri<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> the first, commonly called <hi>Richard Cuer de Lyon.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>refully collected out of the truest Writers of our English C<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es. And published for the satisfaction of those who desire to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Truth purged from falsehood.</p>
+            <p>By <hi>Martin Parker.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of Robin, the king and the sheriff?</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nted at <hi>London</hi> for <hi>T. Cotes,</hi> and are to be sold b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>F. Grove,</hi> dvvell<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon Snow hill <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:25113:2"/>
+            <pb facs="tcp:25113:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of three men tormented by demons</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of two men with a ship</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:25113:3"/>
+            <pb facs="tcp:25113:3"/>
+            <head>A True Tale, of <hi>Robin Hood.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">B</seg>Oth Gentlemen or Yeomen bould</l>
+            <l>or whatsoever you are:</l>
+            <l>To have a stately story tould,</l>
+            <l>attention now prepare.</l>
+            <l>It is a Tale of Robbin Hood,</l>
+            <l>that I to you will tell:</l>
+            <l>Which being rightly understood,</l>
+            <l>I know will please you well.</l>
+            <l>This Robbin (so much talked on)</l>
+            <l>was once a man of fame.</l>
+            <l>Instiled Earle of Huntington</l>
+            <l>Lord Robert Hood by Name.</l>
+            <l>In Courtship and Magnificence,</l>
+            <l>his carriage won him prayse,</l>
+            <pb facs="tcp:25113:4"/>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d greater favour with his Prince</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> than any in his dayes.</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bounteous Liberality</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he too much did excell,</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd loved men of quality,</l>
+            <l>more than excéeding well.</l>
+            <l>His great Revennues all he sould</l>
+            <l>for wine and costly chéere:</l>
+            <l>He kept thrée hundred Bowmen hold,</l>
+            <l>he shooting lov'd so deare.</l>
+            <l>No Archer living in his time,</l>
+            <l>with him might well compare,</l>
+            <l>He practis'd all his youthfull prime,</l>
+            <l>that excercise most rare.</l>
+            <l>At last by his profuse expence,</l>
+            <l>he had consum'd his wealth;</l>
+            <l>And being outlawed by his Prince,</l>
+            <l>in woods he liv'd by stealth.</l>
+            <l>The Abbot of S. Maries Rich,</l>
+            <l>to whom he money ought,</l>
+            <l>His hatred to this Earle was such,</l>
+            <l>that he his downefall wrought.</l>
+            <l>So being outlawed (as 'tis told)</l>
+            <l>he with a Crew went forth,</l>
+            <l>Of lusty Cutters stout and bold,</l>
+            <l>and robbed in the North.</l>
+            <l>Among the rest, one little Iohn,</l>
+            <l>a yeoman bold and frée:</l>
+            <pb facs="tcp:25113:4"/>
+            <l>Who could (if it stood him upon)</l>
+            <l>with ease encounter thrée.</l>
+            <l>One hundred men in all he got,</l>
+            <l>with whom (the Story sayes)</l>
+            <l>Thrée hundred common men durst not</l>
+            <l>hold combate any wayes.</l>
+            <l>They Yorkshire woods frequented much,</l>
+            <l>and Lancashire also:</l>
+            <l>Wherein their practises were such,</l>
+            <l>that they wrought mickle woe.</l>
+            <l>None rich durst travell to and fro,</l>
+            <l>(though ne're so strongly arm'd.)</l>
+            <l>But by these théeves (so strong in show)</l>
+            <l>they still were rob'd and harm'd.</l>
+            <l>His chiefest spight to the Clergie was,</l>
+            <l>that lived in monstrous pride:</l>
+            <l>No one of them he would let passe,</l>
+            <l>along the high way side:</l>
+            <l>But first they must to dinner goe,</l>
+            <l>and afterwards to Shrift:</l>
+            <l>Full many a one he served so,</l>
+            <l>thus while he liv'd by theft.</l>
+            <l>No Monkes nor Fryers he would let goe,</l>
+            <l>without paying their Fées:</l>
+            <l>If they thought much to be us'd so,</l>
+            <l>their stones he made them léese:</l>
+            <l>For such as they the Country fill'd,</l>
+            <l>with Bastards in those dayes.</l>
+            <pb facs="tcp:25113:5"/>
+            <l>Which to prevent, these Sparkes did geld,</l>
+            <l>all that came by their wayes.</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut Robbin Hood so gentle was</l>
+            <l>and bore so brave a minde:</l>
+            <l>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f any in distresse did passe,</l>
+            <l>to them he was so kinde,</l>
+            <l>That he would give and lend to them,</l>
+            <l>to helpe them at their néede:</l>
+            <l>This made all poore men pray for him,</l>
+            <l>and wisht he well might spéede.</l>
+            <l>The Widdow and the Fatherlesse</l>
+            <l>he would send meanes unto:</l>
+            <l>And those whom famine did oppresse</l>
+            <l>found him a friendly foe.</l>
+            <l>Nor would he doe a woman wrong,</l>
+            <l>but sée her safe conveid:</l>
+            <l>He would protect with power strong</l>
+            <l>all those who crav'd his ayde.</l>
+            <l>The Abbot of Saint Maries then,</l>
+            <l>who him undid before:</l>
+            <l>Was riding with two hundred men,</l>
+            <l>and Gold and Silver store:</l>
+            <l>But Robbin Hood upon him set</l>
+            <l>with his Couragious Sparkes:</l>
+            <l>And all the coyne, perforce did get,</l>
+            <l>which was twelve thousand Markes.</l>
+            <l>He bound the Abbot to a Trée,</l>
+            <l>and would not let him passe.</l>
+            <pb facs="tcp:25113:5"/>
+            <l>Before that (to his men and he)</l>
+            <l>his Lordship had sayd Masse.</l>
+            <l>Which being done upon his horse</l>
+            <l>he set him fast a stride:</l>
+            <l>And with his face towards his ar—</l>
+            <l>he forced him to ride.</l>
+            <l>His men were faine to be his guide,</l>
+            <l>for he rode backward home:</l>
+            <l>The Abbot being thus vilifide</l>
+            <l>did sorely chafe and fume.</l>
+            <l>Thus Robbin Hood did vindicate</l>
+            <l>his former wrongs receiv'd:</l>
+            <l>For 'twas this covetous Prelate,</l>
+            <l>that him of Land bereav'd.</l>
+            <l>The Abbot he rode to the King,</l>
+            <l>with all the haste he could,</l>
+            <l>And to his Grace he every thing,</l>
+            <l>exactly did unfold.</l>
+            <l>And sayd if that no course were tane,</l>
+            <l>(by force or Stratagem)</l>
+            <l>To take this Rebell and his traine,</l>
+            <l>no man should passe for them.</l>
+            <l>The King protested by and by,</l>
+            <l>unto the Abbot then,</l>
+            <l>That Robbin Hood with spéed should dye,</l>
+            <l>with all his merry men.</l>
+            <l>But ere the King did any send,</l>
+            <l>he did another feate:</l>
+            <pb facs="tcp:25113:6"/>
+            <l>Which did his Grace much more offend,</l>
+            <l>the fact (indéed) was great.</l>
+            <l>For in a short time after that,</l>
+            <l>the Kings Receivers went.</l>
+            <l>Towards London with the Coyne they got,</l>
+            <l>for's Highnesse Northerne Rent.</l>
+            <l>Bold Robbin Hood and little Iohn,</l>
+            <l>with the rest of their Traine:</l>
+            <l>(Not dreading Law) set them upon,</l>
+            <l>and did their gold obtaine.</l>
+            <l>The King much moved at the same,</l>
+            <l>(and the Abbots talke also,)</l>
+            <l>In this his anger did proclaime,</l>
+            <l>(and sent word to and fro:)</l>
+            <l>That whoso'ere alive or dead,</l>
+            <l>could bring him Robbin Hood,</l>
+            <l>Should have one thousand Markes well payd,</l>
+            <l>in gold and silver good.</l>
+            <l>This promise of the King did make,</l>
+            <l>full many yeomen bold,</l>
+            <l>Attempt stout Robbin Hood to take,</l>
+            <l>with all the force they could:</l>
+            <l>But still when any came to him,</l>
+            <l>within the gay gréene wood:</l>
+            <l>He entertainement gave to them,</l>
+            <l>with Venison sat and good.</l>
+            <l>And shewd to them such martiall sport,</l>
+            <l>with his long bow and Arrow,</l>
+            <pb facs="tcp:25113:6"/>
+            <l>That they of him did give report,</l>
+            <l>how that it was great sorrow,</l>
+            <l>That such a worthy man as he,</l>
+            <l>should thus be put to shift,</l>
+            <l>Being late a Lord of high degrée,</l>
+            <l>of living quite bereft.</l>
+            <l>The King to take him, more and more,</l>
+            <l>sent men of mickle might:</l>
+            <l>But he and his still beate them sore,</l>
+            <l>and conquered them in fight:</l>
+            <l>Or else with love and courtesie,</l>
+            <l>to him he won their hearts.</l>
+            <l>Thus still he lived by robbery,</l>
+            <l>throughout the Northerne parts.</l>
+            <l>And all the Country stood in dread,</l>
+            <l>of Robbin Hood and's men:</l>
+            <l>For stouter Lads ne're liv'd by bread,</l>
+            <l>in those dayes nor since then.</l>
+            <l>The Abbot (which before I nam'd,)</l>
+            <l>sought all the meanes he could,</l>
+            <l>To have by force this Rebell tane,</l>
+            <l>and his adherents bold.</l>
+            <l>Therefore he arm'd five hundred men,</l>
+            <l>with furniture compleate:</l>
+            <l>But the outlawes slew halfe of them,</l>
+            <l>and made the rest retreate.</l>
+            <l>The long bow and the arrow kéene,</l>
+            <l>they were so us'd unto:</l>
+            <pb facs="tcp:25113:7"/>
+            <l>That still they kept the Forest gréene,</l>
+            <l>in spight o'th' proudest foe.</l>
+            <l>Twelve of the Abbots men he tooke,</l>
+            <l>who came him to have tane:</l>
+            <l>When all the rest the field forsooke,</l>
+            <l>these he did entertaine;</l>
+            <l>With Banquetting and Merriment,</l>
+            <l>and having us'd them well,</l>
+            <l>He to their Lord them safely sent,</l>
+            <l>and will'd them him to tell:</l>
+            <l>That if he would be pleas'd at last</l>
+            <l>to beg of our good King;</l>
+            <l>That he might pardon what was past,</l>
+            <l>and him to favour bring:</l>
+            <l>He would surrender backe agen</l>
+            <l>the money which before</l>
+            <l>Was taken by him and his men,</l>
+            <l>from him and many more.</l>
+            <l>Poore men might safely passe by him,</l>
+            <l>and some that way would chuse,</l>
+            <l>For well they knew that to helpe them,</l>
+            <l>he evermore did use.</l>
+            <l>But where he knew a Miser Rich</l>
+            <l>that did the poore oppresse;</l>
+            <l>To féele his Coyne his hand did itch</l>
+            <l>hée'de have it more or lesse.</l>
+            <l>And sometimes when the high-way fayld,</l>
+            <l>then he his courage rouses;</l>
+            <pb facs="tcp:25113:7"/>
+            <l>He and his men have oft assayld</l>
+            <l>such rich men in their houses:</l>
+            <l>So that through dread of Robbin then,</l>
+            <l>and his adventurous Crew:</l>
+            <l>The Mizers kept great store of men,</l>
+            <l>which else maintayn'd but few.</l>
+            <l>King Richard of that name the first,</l>
+            <l>Sirnamed Cuer de Lyon,</l>
+            <l>Went to defeate the Pagans Curst,</l>
+            <l>who kept the coasts of Syon,</l>
+            <l>The Bishop of Ely Chancelor</l>
+            <l>was left as vice Roy here,</l>
+            <l>Who like a potent Emperor,</l>
+            <l>did proudly domminere.</l>
+            <l>Our Chronicles of him report</l>
+            <l>that commonly he rode:</l>
+            <l>With a thousand Horse from court to court,</l>
+            <l>where he would make abode.</l>
+            <l>He riding downe towards the North,</l>
+            <l>with his aforesayd traine:</l>
+            <l>Robbin and his did issue forth</l>
+            <l>them all to entertaine.</l>
+            <l>And with the Gallant Gray Goose wing,</l>
+            <l>they shewed to them such play,</l>
+            <l>That made their horses kickle and fling,</l>
+            <l>and downe their Riders Lay.</l>
+            <l>Full glad and faine the Bishop was</l>
+            <l>for all his thousand men,</l>
+            <pb facs="tcp:25113:8"/>
+            <l>To séeke what meanes he could to passe,</l>
+            <l>from out of Robbins ken.</l>
+            <l>Two hundred of his men were kil'd,</l>
+            <l>and fourescore horses good;</l>
+            <l>Thirty who did as captives yéeld,</l>
+            <l>were carryed to the gréene wood:</l>
+            <l>Which afterwards were ransomed,</l>
+            <l>for twenty Markes a man:</l>
+            <l>The rest set spurres to horse and fled,</l>
+            <l>to'th towne of Warrington.</l>
+            <l>The Bishop sore enraged then,</l>
+            <l>did in King Richards name:</l>
+            <l>Muster a power of Northerne men,</l>
+            <l>these outlawes bold to tame.</l>
+            <l>But Robbin with his courtesie,</l>
+            <l>so wonne the meaner sort,</l>
+            <l>That they were loath on him to try,</l>
+            <l>what rigor did import.</l>
+            <l>So that bold Robbin and his traine,</l>
+            <l>did live unhurt of them:</l>
+            <l>Vntill King <hi>Richard</hi> came againe,</l>
+            <l>from faire Ierusalem.</l>
+            <l>And then the talke of of Robbin Hood,</l>
+            <l>his royall eares did fill:</l>
+            <l>His grace admir'd that ith gréene wood,</l>
+            <l>he thus continued still.</l>
+            <l>So that the country farre and neare,</l>
+            <l>did give him great applause:</l>
+            <pb facs="tcp:25113:8"/>
+            <l>For none of them néede stand in feare,</l>
+            <l>but such as broke the lawes.</l>
+            <l>He wished well unto the King,</l>
+            <l>and prayed still for his health:</l>
+            <l>And dever practised any thing,</l>
+            <l>against the Common wealth.</l>
+            <l>Onely because he was undone,</l>
+            <l>by'th' Crewell Clergie then:</l>
+            <l>All meanes that he could thinke upon,</l>
+            <l>to vexe such kinde of men,</l>
+            <l>He enterprized with hatefull spléene,</l>
+            <l>in which he was to blame:</l>
+            <l>For fault of some to wréeke his téene</l>
+            <l>on all that by him came.</l>
+            <l>With wealth which he by Robbery got</l>
+            <l>eight almes houses he built:</l>
+            <l>Thinking thereby to purge the blot,</l>
+            <l>of blood which he had spilt:</l>
+            <l>Such was their blinde devotion then,</l>
+            <l>depending on their workes:</l>
+            <l>Which if 'twere true, we Christian men,</l>
+            <l>inferiour were to Turkes.</l>
+            <l>But to speake true of Robbin Hood,</l>
+            <l>and wrong him not a jot:</l>
+            <l>He never would shed any mans blood,</l>
+            <l>that him invaded not.</l>
+            <l>Nor would he iniure husbandmen,</l>
+            <l>that toyl'd at Cart and Plough.</l>
+            <pb facs="tcp:25113:9"/>
+            <l>For well he knew, were't not for them,</l>
+            <l>to live no man knew how.</l>
+            <l>The King in person with some Lords,</l>
+            <l>to Nothingham did Ride,</l>
+            <l>To try what Strength and skill affords,</l>
+            <l>to Crush these out lawes pride.</l>
+            <l>And as he once before had done,</l>
+            <l>he did againe proclaime</l>
+            <l>That whosoere would take upon</l>
+            <l>to bring to Nothingham,</l>
+            <l>Or any place within the Land</l>
+            <l>Rebellious Robbin Hood,</l>
+            <l>Should be prefer'd in place to stand,</l>
+            <l>with those of Noble blood.</l>
+            <l>When Robbin Hood heard of the same,</l>
+            <l>within a little space,</l>
+            <l>Into the Towne of Notingham,</l>
+            <l>a letter to his Grace,</l>
+            <l>He shot upon an Arrow head,</l>
+            <l>one evening cunningly;</l>
+            <l>Which was brought to the King and read</l>
+            <l>before his Maiestie:</l>
+            <l>The Tennour of this Letter was</l>
+            <l>that Robbin would submit,</l>
+            <l>And be true Leigeman to his Grace,</l>
+            <l>in any thing that's fit;</l>
+            <l>So that his Highnesse would forgive,</l>
+            <l>him and his merry men all:</l>
+            <pb facs="tcp:25113:9"/>
+            <l>If not he must i'th Gréene wood live,</l>
+            <l>and take what chance did fall,</l>
+            <l>The King would faine have pardoned him,</l>
+            <l>but that some Lords did say:</l>
+            <l>This president will much condemne</l>
+            <l>your Grace another Day.</l>
+            <l>While that the King and Lords did stay</l>
+            <l>debating on this thing:</l>
+            <l>Some of these outlawes fled away</l>
+            <l>unto the Scottish King:</l>
+            <l>For they suppos'd if he were tane</l>
+            <l>or to the King did yéeld:</l>
+            <l>By th' commons all the rest on's traine</l>
+            <l>full quickely would be Quell'd,</l>
+            <l>Of more than full a hundred men,</l>
+            <l>but forty tarryed still:</l>
+            <l>Who were resolv'd to sticke to him</l>
+            <l>let fortune worke her will.</l>
+            <l>If none had fled, all for his sake</l>
+            <l>had got their pardon frée:</l>
+            <l>The King to favour meant to take</l>
+            <l>his merry men and he.</l>
+            <l>But ere the pardon to him came.</l>
+            <l>this famous Archer dy'd:</l>
+            <l>His death and manner of the same▪</l>
+            <l>Ile presently describe.</l>
+            <l>For being vext to thinke upon</l>
+            <l>his followers Revolt:</l>
+            <pb facs="tcp:25113:10"/>
+            <l>In melancholly passion</l>
+            <l>he did recount his fault.</l>
+            <l>Perfideous traytors, sayd he then,</l>
+            <l>in all your dangers past,</l>
+            <l>Have I you guarded as my men,</l>
+            <l>to leave me thus at last?</l>
+            <l>This sad perplerity did cause,</l>
+            <l>a Fever (as some say.)</l>
+            <l>Which him unto confusion drawes.</l>
+            <l>though by a stranger way.</l>
+            <l>This deadly danger to prevent,</l>
+            <l>he hide him (with all spéede)</l>
+            <l>Vnto a Nunnery with intent,</l>
+            <l>for his healths sake to bléede.</l>
+            <l>A faithlesse Fryer did pretend,</l>
+            <l>in love to let him blood:</l>
+            <l>But he by falshood wrought the end,</l>
+            <l>of famous Robbin Hood.</l>
+            <l>The Fryer (as some say) did this,</l>
+            <l>to vindicate the wrong:</l>
+            <l>Which to the Clergie he and his,</l>
+            <l>had done be power strong.</l>
+            <l>Thus dyed he by trechery,</l>
+            <l>who could not dye by force:</l>
+            <l>Had he liv'd longer certainely</l>
+            <l>King Richard in remorse,</l>
+            <l>Had unto favour him receav'd,</l>
+            <l>he brave men elevated.</l>
+            <pb facs="tcp:25113:10"/>
+            <l>Tis pitty he was of life bereav'd,</l>
+            <l>by one which he so hated.</l>
+            <l>A treacherons Léech this Fryer was,</l>
+            <l>to let him bléed to death:</l>
+            <l>And Robbin was me thinkes an asse,</l>
+            <l>to trust him with his breath.</l>
+            <l>His Corpes the Priores of the place,</l>
+            <l>(the next day that he dy'd)</l>
+            <l>Caused to be hurted (in meane case)</l>
+            <l>close by the high way side.</l>
+            <l>And over him she caused a stone,</l>
+            <l>to be fired on the ground:</l>
+            <l>An Epitaph was set thereon,</l>
+            <l>wherein his name was found,</l>
+            <l>The date o'th yeare and day also,</l>
+            <l>shée made to be set there:</l>
+            <l>That all who by the way did goe.</l>
+            <l>might sée it plaine appeare,</l>
+            <l>That such a man as Robbin Hood,</l>
+            <l>was buried in that place:</l>
+            <l>And how he lived in the gréene wood,</l>
+            <l>and Rob'd there for a space.</l>
+            <l>It seemes that though the Clergie he,</l>
+            <l>had put to mickle woe:</l>
+            <l>He should not quite forgotten be,</l>
+            <l>although he was their foe.</l>
+            <l>This woman though she did him hate,</l>
+            <l>yet loved his memory:</l>
+            <pb facs="tcp:25113:11"/>
+            <l>And thought it wondrous pitty that,</l>
+            <l>his fame should with him dye.</l>
+            <l>This Epitaph, as Records tell,</l>
+            <l>within this hundred yeares,</l>
+            <l>By many was discerned well,</l>
+            <l>but time all things outweares.</l>
+            <l>His followers when he was dead,</l>
+            <l>were some received to grace:</l>
+            <l>The rest to forraigne Countries fled,</l>
+            <l>and left their native place.</l>
+            <l>Although his funerall was but meane,</l>
+            <l>this woman had in minde:</l>
+            <l>Least his fame should be burried cleare,</l>
+            <l>from those that came behind.</l>
+            <l>For certainely before nor since,</l>
+            <l>no man ere vnderstood:</l>
+            <l>Vnder the reigne of any Prince,</l>
+            <l>of one like Robbin Hood.</l>
+            <l>Full thirtéene yeares and something more,</l>
+            <l>these outlawes lived thus:</l>
+            <l>Feared of the rich, loved of the poore,</l>
+            <l>a thing most marvelous.</l>
+            <l>A thing unpossible to us,</l>
+            <l>this story séemes to be:</l>
+            <l>None dares be now so venturous,</l>
+            <l>but times are chang'd we sée.</l>
+            <l>We that live in these latter dayes,</l>
+            <l>of civill government;</l>
+            <pb facs="tcp:25113:11"/>
+            <l>(If néede be) have a hundred wayes,</l>
+            <l>such outlawes to prevent.</l>
+            <l>In those dayes men more barbarous were,</l>
+            <l>and lived lesse in awe:</l>
+            <l>Now (God be thanked) people feare,</l>
+            <l>more to offend the Law.</l>
+            <l>No roaring Guns were then in use,</l>
+            <l>they dreampt of no such thing:</l>
+            <l>Our English men in fight did chuse,</l>
+            <l>the gallant gray Goose wing,</l>
+            <l>In which activity these men,</l>
+            <l>(through practise) were so good.</l>
+            <l>That in those dayes non equald them,</l>
+            <l>specially Robbin Hood.</l>
+            <l>So that it séemes, kéeping in Caves,</l>
+            <l>in Woods and Forrests thicke:</l>
+            <l>Thei'd beate a multitude with staves,</l>
+            <l>their Arrowes did so pricke.</l>
+            <l>And none durst neare unto them come,</l>
+            <l>unlesse in courtesie:</l>
+            <l>All such he bravely would send home,</l>
+            <l>with mirth and Iollity.</l>
+            <l>Which courtesie won him such love,</l>
+            <l>as I before have told:</l>
+            <l>'Twas the chéefe cause that he did prove,</l>
+            <l>more prosperous than he could,</l>
+            <l>Let us be thankefull for these times,</l>
+            <l>Of plenty, truth, and peace:</l>
+            <pb facs="tcp:25113:12"/>
+            <l>And leave our great and horrid crimes,</l>
+            <l>least they cause this to cease.</l>
+            <l>I know there's many fained Tales</l>
+            <l>of Robbin Hood and's Crew.</l>
+            <l>But Chronicles which seldome fayles,</l>
+            <l>reports this to be true:</l>
+            <l>Let none then thinke this a lye,</l>
+            <l>for if twere put to th' worst:</l>
+            <l>They may the truth of all discry,</l>
+            <l>i'th raigne of Richard the first.</l>
+            <l>If any Reader please to try.</l>
+            <l>(as I direction show)</l>
+            <l>The truth of this brave History,</l>
+            <l>héele finde it true I know.</l>
+            <l>And I shall thinke my labour well</l>
+            <l>bestowed to purpose good:</l>
+            <l>When't shall be sayd that I did tell,</l>
+            <l>True tales of Robbin Hood.</l>
+            <p>
+               <hi>The Epitaph which the Prioresse of the Monastery of Kirkes Lay in Yorke shire, set over Robbin Hood, which (as is before mentioned) was to bee reade within these hundreth yeares (though in old broken English) much to the same sence and meaning</hi>
+            </p>
+            <p>Decembris Quarto Die 1198. Anno Regni Ri<g ref="char:EOLhyphen"/>chardii primi 9.</p>
+            <q>
+               <pb facs="tcp:25113:12"/>
+               <l>Robert Earle of Huntington,</l>
+               <l>lies under this little stone.</l>
+               <l>No Archer was like him so good:</l>
+               <l>his wildnesse named him Robbin Hood.</l>
+               <l>Full thirtéene yeares and something more,</l>
+               <l>these Northerne parts he vexed sore.</l>
+               <l>Such out lawes as he and his men,</l>
+               <l>may England never know agen.</l>
+            </q>
+            <p>
+               <hi>Some other superstitious words were in it, which I thought fit to leave out.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:25113:13"/>
+            <pb facs="tcp:25113:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
